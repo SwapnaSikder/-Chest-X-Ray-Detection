@@ -73,7 +73,7 @@ The model was trained with 20 epochs using validation data for optimization and 
 - Visual Studio Code 1.80
 - Google Colab
 
-# Team Mambers
+# Team Members
 - Swapna Khanam (21201082)
 - Jannatun Saumoon (21201066)
 - Sabber Hossen Shuvo (21201087)
